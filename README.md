@@ -14,3 +14,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonasmulevicius&show_icons=true&locale=en" alt="simonasmulevicius" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonasmulevicius&" alt="simonasmulevicius" /></p>
+
+<h3 align="center">Portfolio of websites I built</h3>
+
+- [Kirpykla lumis](https://kirpyklalumis.lt/)
+- [FDG](https://fdg.lt/)
+- [Opetly.com](opetly.com)
+- [Žaidimų kalvė](https://zaidimukalve.lt/)
