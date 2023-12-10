@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A digital artist specialising in networks</h3>
+<h3 align="center">Creative developer passionate about networks, full-stack solutions and computer graphics</h3>
 
 - 🥦 [Building a website with Firebase to track health goals](https://fitabet.com/)
 - ⚡ [Python Developer@Humbility](https://github.com/simonasmulevicius-humbility)
