@@ -9,6 +9,12 @@
 </p>
 
 - 🥦 [Building a website with Firebase to track health goals](https://fitabet.com/)
+<p align="center">
+  <a href="https://fitabet.com/">
+    <img src="./photos/fitabet_com.png" width="600" title="my Firebase website">
+  </a>
+</p>
+
 - 🐶 [Ex-CTO@Opetly](https://github.com/Opetly)
 - 📕 [Bachelor Thesis (Analysis of QUIC networking protocol)@Cambridge University](https://github.com/simonasmulevicius/Part-II-Dissertation-document-sm2354)
 
