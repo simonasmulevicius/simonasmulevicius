@@ -11,8 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonasmulevicius&show_icons=true&locale=en&layout=compact" alt="simonasmulevicius" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonasmulevicius&show_icons=true&locale=en" alt="simonasmulevicius" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonasmulevicius&" alt="simonasmulevicius" /></p>
 
 <h3 align="center">Portfolio of websites I built</h3>
