@@ -2,6 +2,8 @@
 <h3 align="center">Creative developer passionate about networks, full-stack solutions and computer graphics</h3>
 
 - ⚡ [Python Developer@Humbility](https://github.com/simonasmulevicius-humbility)
+
+![Screenshot](./photos/work_on_other_accounts.png)
 - 🥦 [Building a website with Firebase to track health goals](https://fitabet.com/)
 - 🐶 [Ex-CTO@Opetly](https://github.com/Opetly)
 - 📕 [Bachelor Thesis (Analysis of QUIC networking protocol)@Cambridge University](https://github.com/simonasmulevicius/Part-II-Dissertation-document-sm2354)
